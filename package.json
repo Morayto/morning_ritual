@@ -1,7 +1,6 @@
 {
   "name": "morning_ritual",
-  "version": "0.1.0",
-  "private": false,
+  "version": "0.2.1",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -23,6 +22,10 @@
       "react-app",
       "react-app/jest"
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Morayto/morning_ritual.git"
   },
   "browserslist": {
     "production": [
